@@ -28,11 +28,10 @@ I'm currently a second-year Diploma IT student who's passionate about building i
 `Java` | `PHP` | `JavaScript` | `HTML/CSS` | `SQL` | `Python`
 
 **Frameworks/Tools**:  
-`Node.js` | `Express` | `MongoDB` | `MySQL` | `JDBC` | `Servlet` | `Hibernate` | `NetBeans` | `VS Code` | `Tomcat`
+`Slack` | `ClickUp` | `Canva` | `ChatGPT`
 
 **Others**:  
-`Git` | `Vercel` | `Figma` | `Bootstrap` | `Postman` | `Cybersecurity Labs`
-
+`Git` | `Vercel`
 ---
 
 > Check out all projects under my pinned repos or the [Projects](https://github.com/pranayparikh07?tab=repositories) tab.
