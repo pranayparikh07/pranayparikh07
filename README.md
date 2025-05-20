@@ -71,4 +71,4 @@ Explore my pinned repos or browse through my collection here:
 
 ---
 
-Would you like a **dark/light toggle version** of this for your portfolio homepage as well? Or maybe some animated stats (GitHub streak, trophies, snake eating commits)?
+
