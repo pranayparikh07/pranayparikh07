@@ -1,3 +1,6 @@
+
+<
+<iframe src="https://pranayparikh.vercel.app" height="300" width="300" title="Iframe Website"></iframe
 ---
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -58,9 +61,7 @@ Hello! I'm Pranay Parikh, a passionate and curious second-year Diploma IT studen
 - **User-Centric Design**: Features a seamless interface for smooth transactions, transparent pricing, and an exceptional user experience.
 - **Tech Stack**: PHP, MySQL, HTML/CSS, JavaScript.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding Animation" width="400"/>
-</p>
+
 
 ### 🤖 **[HireGenius](https://github.com/pranayparikh07/hiregenius)**
 *An AI-driven platform to streamline and automate recruitment and interview processes.*
@@ -70,9 +71,6 @@ Hello! I'm Pranay Parikh, a passionate and curious second-year Diploma IT studen
 - **Data-Driven Decisions**: Empowers HR teams with analytics to optimize hiring processes.
 - **Tech Stack**: Node.js, MongoDB, JavaScript, AI APIs.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwlVs/giphy.gif" alt="AI Recruitment Animation" width="400"/>
-</p>
 
 <details>
   <summary>See more projects...</summary>
