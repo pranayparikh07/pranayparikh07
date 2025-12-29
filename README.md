@@ -71,7 +71,7 @@ Hello! I'm Pranay Parikh, a passionate and curious second-year Diploma IT studen
 - **Tech Stack**: Node.js, MongoDB, JavaScript, AI APIs.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlA0zHM9AMeb4VW/giphy.gif" alt="AI Animation" width="400"/>
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwlVs/giphy.gif" alt="AI Recruitment Animation" width="400"/>
 </p>
 
 <details>
