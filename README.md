@@ -58,6 +58,10 @@ Hello! I'm Pranay Parikh, a passionate and curious second-year Diploma IT studen
 - **User-Centric Design**: Features a seamless interface for smooth transactions, transparent pricing, and an exceptional user experience.
 - **Tech Stack**: PHP, MySQL, HTML/CSS, JavaScript.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding Animation" width="400"/>
+</p>
+
 ### 🤖 **[HireGenius](https://github.com/pranayparikh07/hiregenius)**
 *An AI-driven platform to streamline and automate recruitment and interview processes.*
 - **Automated Recruitment**: Automates scheduling and enforces strict time management for maximum efficiency.
@@ -65,6 +69,10 @@ Hello! I'm Pranay Parikh, a passionate and curious second-year Diploma IT studen
 - **Cyberpunk UI**: Showcases a futuristic, engaging interface that enhances user interaction.
 - **Data-Driven Decisions**: Empowers HR teams with analytics to optimize hiring processes.
 - **Tech Stack**: Node.js, MongoDB, JavaScript, AI APIs.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKz9bX9V8Zv8z8w/giphy.gif" alt="AI Animation" width="400"/>
+</p>
 
 <details>
   <summary>See more projects...</summary>
