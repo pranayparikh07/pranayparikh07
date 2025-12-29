@@ -145,155 +145,37 @@ I'm a passionate and curious second-year Diploma IT student, constantly pushing 
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
- 
-  <!-- Dynamic Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pranay+Parikh+👋;I+Architect+Digital+Experiences;Cybersecurity+Enthusiast;Backend+Developer" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Socials - Bolder Look -->
-  <a href="https://pranayparikh.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/pranayparikh07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pranayparikh07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/pranayparikh07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
+	<a href="https://github.com/pranayparikh07">
+		<img src="https://github-readme-stats.vercel.app/api?username=pranayparikh07&show_icons=true&theme=github_dark&hide_title=true&count_private=true&include_all_commits=true" height="180" alt="Stats" />
+	</a>
+	<a href="https://github.com/pranayparikh07">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranayparikh07&layout=compact&theme=github_dark&hide_title=true&langs_count=6" height="180" alt="Top Languages" />
+	</a>
 </div>
-
-<br/>
-
 <div align="center">
-  <em>Diploma IT Student | Aspiring Software Engineer | Cybersecurity Enthusiast</em>
+	<a href="https://github.com/pranayparikh07">
+		<img src="https://streak-stats.demolab.com?user=pranayparikh07&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+	</a>
 </div>
 
-<hr/>
+---
 
-<div align="center">
 
-## 🧠 About Me
+## 📫 Connect with Me
 
-I'm a passionate **Second-Year IT Student** bridging the gap between *clean code* and *creative design*. From securing systems to building fantasy-themed dashboards, I treat every commit as a step towards mastery.
+<p align="center">
+	<a href="https://pranayparikh.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square"/></a>
+	<a href="mailto:pranayparikh07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+	<a href="https://linkedin.com/in/pranayparikh07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+	<a href="https://github.com/pranayparikh07" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
-> 🚀 *"I don't just write code. I architect digital experiences."*
+---
 
-<br/>
 
-### 🎯 What Drives Me
-
-🔹 **Cybersecurity & Ethical Hacking** — *Securing the digital frontier.*
-<br/>
-🔹 **Backend Engineering** — *Java, PHP, Node.js, MongoDB.*
-<br/>
-🔹 **Creative UI/UX** — *Fantasy & Sci-Fi inspired interfaces.*
-<br/>
-🔹 **Innovation** — *AI systems & Serverless Architectures.*
-
-</div>
-
-<br/>
-
-## � Tech Stack
-
-<div align="center">
-
-| **Languages** | **Frameworks & DB** | **Tools & Design** |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <br> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <br> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <br> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> |
-
-</div>
-
-<br/>
-
-## 💼 Experience
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%">
-      <h3>👨‍💻 Web Developer</h3>
-      <strong>RemoteDevs Infotech</strong>
-      <br/><br/>
-      <ul>
-        <li>Developed advanced task management systems (PHP).</li>
-        <li>Engineered scalable, user-centric features.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🐞 QA Engineer</h3>
-      <strong>Lucres & Deepak Technocast</strong>
-      <br/><br/>
-      <ul>
-        <li>Conducted rigorous software testing.</li>
-        <li>Ensured reliability and high performance.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-| **[SecondWave Phones](https://github.com/pranayparikh07/SecondWave-Phones)** 📱 | **[HireGenius](https://github.com/pranayparikh07/hiregenius)** 🤖 |
-|:---:|:---:|
-| *Sustainable Pre-Owned Smartphone Marketplace* | *AI-Driven Recruitment & Interview Platform* |
-| Strict Quality Checks & Trusted Standards | AI Resume Parsing & Candidate Insights |
-| Seamless Transactions & Transparent Pricing | Automated Scheduling & Analysis |
-| 🛡️ Trust-First Approach | 🦾 Futuristic Cyberpunk UI |
-
-</div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <!-- Note: External stats services may experience intermittent downtime -->
-  
-  <table style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=pranayparikh07&show_icons=true&theme=gotham&hide_title=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" height="180" alt="GitHub Stats" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranayparikh07&layout=compact&theme=gotham&hide_title=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" height="180" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=pranayparikh07&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0d1117&ring=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
-## 🏆 Honours
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TechManjari_2K25-Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TechManjari_2K24-Excellence-C0C0C0?style=for-the-badge&logo=medal&logoColor=black"/>
-  <br/><br/>
-  
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=pranayparikh07&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<hr/>
-
-<div align="center">
-	<em>Built with 💖 and a bit of ☕ by Pranay Parikh</em>
-</div>
+<p align="center">
+	<em>🧠 “Either write something worth reading or code something worth committing.”<br>
+	🎯 Let's build something extraordinary. One commit at a time.</em>
+</p>
 
 ---
