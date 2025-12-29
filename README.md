@@ -54,6 +54,8 @@ Explore my pinned repos or browse through my collection here:
 
 ![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranayparikh07\&show_icons=true\&theme=github_dark\&hide_title=true\&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranayparikh07\&layout=compact\&theme=github_dark)
+![GitHub Metrics](https://metrics.lecoq.io/pranayparikh07template=classic&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=al)
+
 
 ---
 
