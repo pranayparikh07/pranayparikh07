@@ -22,9 +22,14 @@ Hello! I'm Pranay Parikh, a passionate and curious second-year Diploma IT studen
 
 ### 🌐 Live Portfolio
 <p align="center">
-  <iframe src="https://pranayparikh.vercel.app" width="100%" height="500px" style="border:none; border-radius: 10px;"></iframe>
-  <br>
-  <sub><i>Note: If the preview doesn't load, <a href="https://pranayparikh.vercel.app" target="_blank">click here to visit</a>.</i></sub>
+### 🌐 Digital Portfolio
+<a href="https://pranayparikh.vercel.app" target="_blank">
+<img src="https://api.screenshotone.com/take?url=https%3A%2F%2Fpranayparikh.vercel.app&visibility_level=all&wait_until=networkidle0&block_ads=true&block_trackers=true&cache=true&width=1200&height=630&device_scale_factor=1&format=jpg" alt="Pranay Parikh Portfolio Preview" width="100%" style="border-radius: 10px; border: 1px solid #30363d;">
+</a>
+
+<p align="center">
+  <b><a href="https://pranayparikh.vercel.app" target="_blank">🚀 View Live Site: pranayparikh.vercel.app</a></b>
+</p>
 </p>
 
 ---
