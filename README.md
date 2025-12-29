@@ -144,13 +144,19 @@ I'm a passionate and curious second-year Diploma IT student, constantly pushing 
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=pranayparikh07&show_icons=true&theme=github_dark&hide_title=true&count_private=true" alt="Pranay's GitHub Stats"/>
-	<br/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranayparikh07&layout=compact&theme=github_dark" alt="Top Languages"/>
-	<br/>
-	<img src="https://streak-stats.demolab.com?user=pranayparikh07&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
+	<a href="https://github.com/pranayparikh07">
+		<img src="https://github-readme-stats.vercel.app/api?username=pranayparikh07&show_icons=true&theme=github_dark&hide_title=true&count_private=true&include_all_commits=true" height="180" alt="Stats" />
+	</a>
+	<a href="https://github.com/pranayparikh07">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranayparikh07&layout=compact&theme=github_dark&hide_title=true&langs_count=6" height="180" alt="Top Languages" />
+	</a>
+</div>
+<div align="center">
+	<a href="https://github.com/pranayparikh07">
+		<img src="https://streak-stats.demolab.com?user=pranayparikh07&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+	</a>
+</div>
 
 ---
 
